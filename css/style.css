@@ -64,7 +64,7 @@ body {
 
 nav {
   margin: 0 auto;
-  padding: 15px 0px 15px 15px;
+  padding: 12px 0px 15px 15px;
   position: fixed;
   width: 273px;
 	background-color: #000000;
@@ -80,6 +80,8 @@ nav {
   float: right;
   width: 8%;
 	padding-bottom: 3%;
+	padding-top: 1%;
+	padding-left: 2%;
 }
 
 .location {
