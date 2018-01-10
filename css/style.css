@@ -59,14 +59,14 @@ body {
 
 .container {
   margin: 0 auto;
-  width: 420px;
+  width: 440px;
 }
 
 nav {
   margin: 0 auto;
   padding: 12px 0px 15px 15px;
   position: fixed;
-  width: 273px;
+  width: 286px;
 	background-color: #000000;
 	height: 45px;
 }
@@ -81,7 +81,7 @@ nav {
   width: 8%;
 	padding-bottom: 3%;
 	padding-top: 1%;
-	padding-left: 2%;
+	padding-left: 5%;
 }
 
 .location {
